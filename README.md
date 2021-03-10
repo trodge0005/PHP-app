@@ -1,5 +1,6 @@
 # nasa-neo
 A user protected website that displays asteroid data, provided by NASA, in a tabular format with external links included. This project demonstrates how to setup and install several components required for deploying a simple customized website.
+![login screen](/img/sum_pg.jpg?raw=true)
 
 # features
 - Self-hosted website via Apache Web server
