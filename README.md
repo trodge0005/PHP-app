@@ -9,7 +9,7 @@ A user protected website that displays asteroid data, provided by NASA, in a tab
 - Scripts that processes and display data provided by a third party API
 - PHP framework with OOP techniques implemented to store session variables
 
-# To-do
+# to-do
 - Improve front end design
 - Implement Laravel framework
 
